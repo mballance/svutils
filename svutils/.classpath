@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="../sveditor/sveditor/plugins/net.sf.sveditor.svt.core/src"/>
+	<classpathentry kind="src" path="sveditor/sveditor/plugins/net.sf.sveditor.core/src"/>
+	<classpathentry kind="lib" path="sveditor/sveditor/plugins/net.sf.sveditor.extjar/antlr.jar"/>
+	<classpathentry kind="lib" path="sveditor/sveditor/plugins/net.sf.sveditor.extjar/asm-4.0.jar"/>
+	<classpathentry kind="lib" path="sveditor/sveditor/plugins/net.sf.sveditor.extjar/asm-commons-4.0.jar"/>
+	<classpathentry kind="lib" path="sveditor/sveditor/plugins/net.sf.sveditor.extjar/diffutils-1.2.1.jar"/>
+	<classpathentry kind="lib" path="sveditor/sveditor/plugins/net.sf.sveditor.extjar/js.jar"/>
+	<classpathentry kind="lib" path="sveditor/sveditor/plugins/net.sf.sveditor.extjar/parser.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

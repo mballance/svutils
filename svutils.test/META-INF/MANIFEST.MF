@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SVUtils Tests
+Bundle-SymbolicName: svutils.test
+Bundle-Version: 1.2.3
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: svutils;bundle-version="1.2.3",
+ org.junit,
+ org.eclipse.core.runtime

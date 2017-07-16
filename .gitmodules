@@ -1,0 +1,4 @@
+[submodule "sveditor"]
+	path = sveditor
+	url = https://github.com/mballance/sveditor.git
+	branch = master
